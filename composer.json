@@ -1,0 +1,14 @@
+{
+    "name": "steamegg/PdoDatabase",
+    "type": "library",
+    "description": "PdoDatabase",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "steamegg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"steamegg\\PdoDatabase\\": "src"}
+    }
+}
